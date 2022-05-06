@@ -1,2 +1,8 @@
-# taken down
-### the BlooketUI was a script that created a GUI to make cheating on blooket easier than ever,<br>but sadly it has been taken down, please understand.
+# BlooketUI
+the best public GUI for blooket
+coded by [zastix](https://github.com/notzastix/)
+# announcements
+- welcome back everyone
+# credits
+[zastix](https://github.com/notzastix/)) - coding most of it
+[gliz](https://twitter.com/glizuwu/) - encoder for requests, firebase things, react handler.
